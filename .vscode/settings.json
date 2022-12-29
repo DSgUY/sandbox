@@ -1,0 +1,7 @@
+{
+   "editor.stickyScroll.enabled": true,
+   "workbench.colorCustomizations": {
+      "editorStickyScroll.background": "#2a0f9f",
+      "editorStickyScrollHover.background": "#2d992d"
+   }
+}
